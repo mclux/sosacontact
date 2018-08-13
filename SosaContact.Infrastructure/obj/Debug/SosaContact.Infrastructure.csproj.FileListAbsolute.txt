@@ -1,0 +1,12 @@
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Infrastructure\bin\Debug\SosaContact.Infrastructure.dll.config
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Infrastructure\bin\Debug\SosaContact.Infrastructure.dll
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Infrastructure\bin\Debug\SosaContact.Infrastructure.pdb
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Infrastructure\bin\Debug\EntityFramework.dll
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Infrastructure\bin\Debug\SosaContact.Core.dll
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Infrastructure\bin\Debug\SosaContact.Core.pdb
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Infrastructure\bin\Debug\EntityFramework.xml
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Infrastructure\obj\Debug\SosaContact.Infrastructure.csprojResolveAssemblyReference.cache
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Infrastructure\obj\Debug\SosaContact.Infrastructure.dll
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Infrastructure\obj\Debug\SosaContact.Infrastructure.pdb

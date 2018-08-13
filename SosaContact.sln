@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SosaContact.Api", "SosaContact.Api\SosaContact.Api.csproj", "{3FB1A1D8-AB42-4F12-90A6-C262190407B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SosaContact.Core", "SosaContact.Core\SosaContact.Core.csproj", "{FCE67027-89EC-41C0-94FF-2DCA3F119EED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SosaContact.Infrastructure", "SosaContact.Infrastructure\SosaContact.Infrastructure.csproj", "{097F9AA3-01E5-4777-9A19-5F08BE3F8C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SosaContact.UI", "SosaContact.UI\SosaContact.UI.csproj", "{3791A517-9695-4A43-896E-39B5F337E798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FB1A1D8-AB42-4F12-90A6-C262190407B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB1A1D8-AB42-4F12-90A6-C262190407B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB1A1D8-AB42-4F12-90A6-C262190407B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB1A1D8-AB42-4F12-90A6-C262190407B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE67027-89EC-41C0-94FF-2DCA3F119EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE67027-89EC-41C0-94FF-2DCA3F119EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE67027-89EC-41C0-94FF-2DCA3F119EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE67027-89EC-41C0-94FF-2DCA3F119EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097F9AA3-01E5-4777-9A19-5F08BE3F8C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097F9AA3-01E5-4777-9A19-5F08BE3F8C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097F9AA3-01E5-4777-9A19-5F08BE3F8C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097F9AA3-01E5-4777-9A19-5F08BE3F8C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3791A517-9695-4A43-896E-39B5F337E798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3791A517-9695-4A43-896E-39B5F337E798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3791A517-9695-4A43-896E-39B5F337E798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3791A517-9695-4A43-896E-39B5F337E798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

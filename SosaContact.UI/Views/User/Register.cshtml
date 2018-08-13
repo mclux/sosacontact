@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+<div id="wrapper" class="row wrapper">
+    <div class="container-min-full-height d-flex justify-content-center align-items-center">
+        <div class="login-center">
+            <div class="navbar-header text-center mt-2 mb-4">
+            </div>
+            <!-- /.navbar-header -->
+            <form>
+                <div class="form-group">
+                    <label for="example-email">Username</label>
+                    <input type="text" placeholder="" class="form-control form-control-line" name="email" id="username">
+                </div>
+                <div class="form-group">
+                    <label for="example-password">Password</label>
+                    <input type="password" placeholder="password" id="password" name="password" class="form-control form-control-line">
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-block btn-lg btn-primary text-uppercase fs-12 fw-600" type="button">Login</button>
+                </div>
+                <!-- /.form-group -->
+            </form>
+            <!-- /.form-material -->
+            <hr>
+            <footer class="col-sm-12 text-center">
+                <hr>
+                <p>
+                    Don't have an account? <a href="/User/Register" class="text-primary m-l-5"><b>Sign Up</b></a>
+                </p>
+            </footer>
+        </div>
+        <!-- /.login-center -->
+    </div>
+    <!-- /.d-flex -->
+</div>
+

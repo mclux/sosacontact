@@ -1,0 +1,5 @@
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Core\bin\Debug\SosaContact.Core.dll
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Core\bin\Debug\SosaContact.Core.pdb
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Core\obj\Debug\SosaContact.Core.csprojResolveAssemblyReference.cache
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Core\obj\Debug\SosaContact.Core.dll
+G:\Workstation\Pent.Official\SosaContact\SosaContact.Core\obj\Debug\SosaContact.Core.pdb
